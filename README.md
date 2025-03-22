@@ -1,16 +1,16 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/1f65ca85-8c40-42f3-8790-99dc965d5f65)
 
-<!--
-**isabelabpas/isabelabpas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nice to meet you! 🤝
 
-Here are some ideas to get you started:
+My full name is actually Isabela Beatriz Pascoal Alves dos Santos, but it didn't fit the header, so just call me Isabela. I am currently finishing up my MBA with a major on Business Intelligence and Data Analytics. My academic background is International Business and Economics but I am looking to immerse myself in the world of data and advance professionally on this path.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗂️ Portfolio
+Here is where I showcase projects I have worked on or am working on!
+
+### 🤓 BIBA Skillset
+✅ Languages: SQL, Python, R  
+✅ Software: JMP, Stata, SPSS  
+✅ Visualization: Looker Studio, Tableau, Excel Dashboarding
+
+### 📬 Let's talk!
+You can find me on 🔵 [LinkedIn](https://www.linkedin.com/in/isabelabpas/), or, alternatively, directly [send me an email](mailto:isabelabpasantos@gmail.com) 📧.  
