@@ -8,9 +8,9 @@ My full name is actually Isabela Beatriz Pascoal Alves dos Santos, but it didn't
 [Here](https://github.com/isabelabpas/portofolio/blob/7401594d82c6b2057419b28e99c2530ba3ef9101/README.md) is where I showcase projects I have worked on or am working on!
 
 ### 🤓 BIBA Skillset
-✅ Languages: SQL, Python, R  
-✅ Software: JMP, Stata, SPSS  
-✅ Visualization: Looker Studio, Tableau, Excel Dashboarding
+• Languages: SQL, Python, R  
+• Software: JMP, Stata, SPSS  
+• Visualization: Looker Studio, Tableau, Excel Dashboarding
 
 ### 📬 Let's talk!
 You can find me on 🔵 [LinkedIn](https://www.linkedin.com/in/isabelabpas/), or, alternatively, directly [send me an email](mailto:isabelabpasantos@gmail.com) 📧.  
