@@ -5,7 +5,7 @@
 My full name is actually Isabela Beatriz Pascoal Alves dos Santos, but it didn't fit the header, so just call me Isabela. I am currently finishing up my MBA with a major on Business Intelligence and Data Analytics. My academic background is International Business and Economics but I am looking to immerse myself in the world of data and advance professionally on this path.
 
 ### 🗂️ Portfolio
-[Here](https://github.com/isabelabpas/portofolio/blob/7401594d82c6b2057419b28e99c2530ba3ef9101/README.md) is where I showcase projects I have worked on or am working on!
+[Here](https://github.com/isabelabpas/portofolio/blob/main/README.md) is where I showcase projects I have worked on or am working on!
 
 ### 🤓 BIBA Skillset
 • Languages: SQL, Python, R  
